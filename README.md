@@ -1,3 +1,3 @@
-# test-hfstpy
+# HFST python interface
 
-This is a test repository. Its wiki holds documentation about HFST python API.
+The [wiki pages](https://github.com/hfst/python/wiki) of the repository hold documentation about HFST python API.
